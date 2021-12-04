@@ -1,0 +1,2 @@
+# ddos.py
+rama
