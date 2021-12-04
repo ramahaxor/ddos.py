@@ -22,7 +22,7 @@ print('=' *36)
 print(" author : rama ")
 print("team : MCT")
 print("tanks to nebwie to mastah")
- raw_input("IP Target : ")
+ ip=input("ip  :")
 port = input("Port       : ")
 
 os.system("clear")
