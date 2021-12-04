@@ -22,7 +22,7 @@ print('=' *36)
 print(" author : rama ")
 print("team : MCT")
 print("tanks to nebwie to mastah")
- ip=input("ip  :")
+ip=input("masukan ipip :")
 port = input("Port       : ")
 
 os.system("clear")
